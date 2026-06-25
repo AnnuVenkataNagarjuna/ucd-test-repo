@@ -1,0 +1,12 @@
+{
+  "name": "ucd-test-app",
+  "version": "1.0.0",
+  "description": "Sample application for UrbanCode Deploy demonstration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
